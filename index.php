@@ -7,24 +7,34 @@
 	<title>HOME</title>
 	
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+	
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 
 </head>
 <body>
 
 	<header>
-		<img src="Imagens/logo.png" alt="logo">
-		<nav>
-			<ul>
-				<li><a href="#"></a>Home</li>
-				<li><a href="#"></a>Produtos</li>
-				<li><a href="#"></a>Fornecedores</li>
-				<li><a href="#"></a>Categorias</li>
-			</ul>
+		<img src="Imagens/logo.png" alt="logo" height="50">
+		<nav class="navbar navbar-expand-lg bg-body-tertiary">
+			<div class="container-fluid">
+				<ul>
+					<li><a href="#"></a>Home</li>
+					<li><a href="#"></a>Produtos</li>
+					<li><a href="#"></a>Fornecedores</li>
+					<li><a href="#"></a>Categorias</li>
+				</ul>
+			</div>
 		</nav>
 	</header>
 	
 	<main class="container">
+		<h2>Conteúdo</h2>
+		<h2>Conteúdo</h2>
+		<h2>Conteúdo</h2>
+		<h2>Conteúdo</h2>
+		<h2>Conteúdo</h2>
+		<h2>Conteúdo</h2>
+		<h2>Conteúdo</h2>
 		<h2>Conteúdo</h2>
 	</main>
 
